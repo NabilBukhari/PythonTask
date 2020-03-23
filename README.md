@@ -2,10 +2,10 @@
 
 Creating a simple class to extract matching strings from a list regardless of the characters order.
 
-###### Pre-requisites:
+#### Pre-requisites:
 One must have Python installed in his local system for executing this code easily. 
 
-###### How to run this code:
+#### How to run this code:
 Please run the script using 
 ```py finder.py```
 
@@ -18,7 +18,7 @@ It will allow you to use four options:
 [S]how Corpus:
 ```
 
-###### Folder Information:
+#### Folder Information:
 ```
 theory : contains high level description.
 diagram : contains block and system architecture diagram.
