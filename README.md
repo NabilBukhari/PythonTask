@@ -15,7 +15,7 @@ It will allow you to use four options:
 [A]dd data to Corpus 
 [F]ind strings from Corpus
 [Q]uit the application
-[S]how Corpus:
+[S]how Corpus
 ```
 
 #### Folder Information:
