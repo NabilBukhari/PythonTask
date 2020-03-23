@@ -23,5 +23,4 @@ It will allow you to use four options:
 theory : contains high level description.
 diagram : contains block and system architecture diagram.
 scripts : contains script of the desired functionality.
-tests : contains unittests
 ```
