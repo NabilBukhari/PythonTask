@@ -1,4 +1,4 @@
-##### Extract Matching Strings Using Python
+### Extract Matching Strings Using Python
 
 Creating a simple class to extract matching strings from a list regardless of the characters order.
 
